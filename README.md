@@ -89,7 +89,7 @@
     6. Malloc()
     7. [strstr()](Data_Struct_Implementation\strstr\README.md)
 14. Bits Manipulation
-    1.  [Reverse Bits](Data_Struct_Implementation/BitsManipulation/reverseBits.md)
+    1.  [Reverse Bits](Data_Struct_Implementation/BitsManipulation/reverseBits.md)🔴
     2.  Flip a monochrome bitmap
     3.  [Count bits with lookup table](Data_Struct_Implementation\BitsManipulation\countBitsLookUpTable.md)
     4.  [Length of the Longest Consecutive 1s in Binary Representation](https://www.geeksforgeeks.org/length-longest-consecutive-1s-binary-representation/)
